@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: MLProject
+Version: 0.0.0.1
+Author: Kunal 
+Author-email: gauravvaishya143@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: python-dotenv
+Requires-Dist: pymongo
+Requires-Dist: certifi
