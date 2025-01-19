@@ -17,3 +17,4 @@ class NetworkSecurityException(Exception):
 #         print('This will not be printed', a)
 #     except Exception as e:
 #         raise NetworkSecurityException(e, sys)
+# Checking if the code is working
