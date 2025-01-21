@@ -7,7 +7,7 @@ certifi
 pymongo[srv]==3.11
 scikit-learn
 pyaml
-dill
+
 # -e .
 # while installing this pip install -r requirements.txt
 # This will directly trigger setup.py to run
